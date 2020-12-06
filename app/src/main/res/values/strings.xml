@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartAngelTask</string>
+    <string name="user_name">Ahmed Agrama</string>
+    <string name="user_job">Designer,Ui/Ux</string>
+    <string name="user_bio">Bio</string>
+    <string name="bio">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</string>
+    <string name="selectmsg">Select your message</string>
+    <string name="question">Question</string>
+    <string name="msgme">Message me</string>
+
+    <string name="msg1">Message with reply</string>
+    <string name="pound">$2</string>
+
+
+</resources>
